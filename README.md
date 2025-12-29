@@ -1,6 +1,6 @@
 # Process-Inspector_EDR_Tool
 
-# CYBER-PULSE | SIMPLE EDR Tool
+# || SIMPLE EDR Tool ||
 
 # It Will Upgrade In Future This The DEMO and Experiment version
 
