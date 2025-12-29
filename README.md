@@ -47,6 +47,7 @@ It provides real-time CPU, RAM, and network metrics, memory scanning for suspici
 
 ```bash
 https://github.com/TerminatorNox/Process-Inspector_EDR_Tool.git
+
 cd cyber-pulse-edr
 ```
 
